@@ -1,0 +1,16 @@
+Codename: mytest
+Date: Thu, 20 Apr 2017 13:30:41 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ efe2a1c65ca11df24648967523b59eb0 450 main/binary-amd64/Packages
+ cbae41caeb125242be2ea3b5d0331ac7 341 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 55c87c8d6727012e37416421471b8f32c10f94fd 450 main/binary-amd64/Packages
+ 8ff82a9edcb7e4aa891ec5ec0edcccbf3aa86ff7 341 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 22836acadd512ef2d98bece153019cc6f70e0061f854c997c184dc35a3d283dd 450 main/binary-amd64/Packages
+ 88e65d50e43c4b53a726740c2eeb7e2cc86daeed14749238f0918cfd36625508 341 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release

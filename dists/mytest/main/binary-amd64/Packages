@@ -1,0 +1,15 @@
+Package: newt
+Version: 1.0.0
+Architecture: amd64
+Essential: no
+Installed-Size: 1026
+Maintainer: mynewt.apache.org
+Priority: extra
+Section: devel
+Filename: pool/main/n/newt/newt_1.0.0_amd64.deb
+Size: 2603436
+SHA256: e38856a473505de4736e29db1cf896d917bb7879ccb9738aff74ce663e967b2d
+SHA1: 850e83415799666607bc077f06e8a5fe81e05f34
+MD5sum: 7bfbe9607781152f480e8b21e0599bde
+Description: package, build, install mangement system for Mynewt OS applications
+
