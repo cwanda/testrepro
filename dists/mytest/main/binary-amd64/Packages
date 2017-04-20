@@ -13,3 +13,18 @@ SHA1: 850e83415799666607bc077f06e8a5fe81e05f34
 MD5sum: 7bfbe9607781152f480e8b21e0599bde
 Description: package, build, install mangement system for Mynewt OS applications
 
+Package: newtmgr
+Version: 1.0.0
+Architecture: amd64
+Essential: no
+Installed-Size: 17059
+Maintainer: mynewt.apache.org
+Priority: extra
+Section: devel
+Filename: pool/main/n/newtmgr/newtmgr_1.0.0_amd64.deb
+Size: 3179352
+SHA256: 8418296656edf04a6c676c291f2a6edb6461b791959234d7c74c444efb344e69
+SHA1: 6ca6569432659a3ec1a78d2570c5b9baa56a4942
+MD5sum: f6ad043775011a901acd4b8718c057a9
+Description: Tool to manage devices running Mynewt OS via the Newtmgr Protocol
+
